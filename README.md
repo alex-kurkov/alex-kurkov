@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alex-kurkov.alex-kurkov)
+
 <!--
 **alex-kurkov/alex-kurkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+🔜 
 -->
+## My stack
+ 
+<code>
+<br/>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/html.png"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/css.png"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/js.png"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/ES6.jpg"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/React.jpg"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/webpack.png"></a>
+<br>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/NODEJS.png"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/Expressjs.png"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/mongo.png"></a>
+</code>
