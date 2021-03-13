@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <br/>
 <a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/html.png"></a>
 <a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/css.png"></a>
-<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/js.png"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/JS.png"></a>
 <a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/ES6.jpg"></a>
 <a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/React.jpg"></a>
 <a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/webpack.png"></a>
-<br>
+<br/>
 <a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/NODEJS.png"></a>
 <a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/Expressjs.png"></a>
 <a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/mongo.png"></a>
