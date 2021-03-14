@@ -1,6 +1,18 @@
-### Hi there 👋
+## Hi there and welcome! 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alex-kurkov.alex-kurkov)
+
+
+![Alt text][about]
+
+[about]: ./icons/me.gif  "Alex Kurkov personal :)"
+
+
+## **Content**
+  - [About me](#About-me)
+  - [Projects](#Projects)
+  - [My stack](#My-stack)
+  - [Contacts](#Contacts)
 
 <!--
 **alex-kurkov/alex-kurkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
