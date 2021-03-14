@@ -21,12 +21,12 @@ Here are some of my educational and hackathon projects:
 >***about***: Single Page Application for **MARSHAK Publishing** music label **Turbina**. The project was developed during Yandex.Prakticum hackathon in november 2020... and became a co-winner of the hackathon. Was put into production by the end ov november, 2020 after some amendments\
 > ***stack:*** React, Styled Components, ESLint, Web Audio API\
 >***site***: https://marshakbooks.ru/turbina/\
->***initial code***: https://github.com/alex-kurkov/turbina-react
+>***initial code***: https://github.com/alex-kurkov/turbina-react\
 
 - **News Explorer**
 
->***about***: Yandex.Practicum diploma Project - the frontend and backend of SPA for searching news by a keyword or a keyphrase, allowing to save or delete featured news after authorization
-> ***stack:***  NodeJS, ExpressJS, MongoDB, Nginx, React, REST API, ESLint
+>***about***: Yandex.Practicum diploma Project - the frontend and backend of SPA for searching news by a keyword or a keyphrase, allowing to save or delete featured news after authorization\
+> ***stack:***  NodeJS, ExpressJS, MongoDB, Nginx, React, REST API, ESLint\
 >***site***: https://kurkov-news.students.nomoreparties.xyz/\
 >***backend code***: https://github.com/alex-kurkov/news-explorer-api\
 >***frontend code***: https://github.com/alex-kurkov/news-explorer-frontend\
