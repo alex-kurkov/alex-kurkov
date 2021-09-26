@@ -7,29 +7,27 @@
 
 ## About me
 
-<img width="30%" alt="me at work:)" vspace="5" hspace="10" align="right" src="./icons/me.gif"><span>Hi, I'm Alex, an excited newcomer to the world of FrontEnd development from Russia.
-I've studied web-dev at <a href="https://praktikum.yandex.ru">Yandex.Practicum</a> and <a href="https://hexlet.io">Hexlet.io</a> for 10 months of the darkest years of 2020-21. I am currently working on some pet and freelance projects and continuing to wander through innumerable threads and articles on stackoverflow, github, mdn and so on... Learning to code will never stop and that's great! </span>
+<img width="30%" alt="me at work:)" vspace="5" hspace="10" align="right" src="./icons/me.gif"><span>Hi, I'm Alex
+I've studied web-dev at <a href="https://praktikum.yandex.ru">Yandex.Practicum</a> and <a href="https://hexlet.io">Hexlet.io</a> for 10 months in 2020-21. I am currently working on some pet and freelance projects and continuing to wander through innumerable threads and articles on stackoverflow, github, mdn and so on... Learning to code will never stop and that's great! </span>
 
 ---
 
 ## Projects
 
-Here are some of my educational and hackathon projects:
+Here are some of my latest projects:
 
 - **Turbina**
 
->***about***: Single Page Application for **MARSHAK Publishing** music label **Turbina**. The project was developed during Yandex.Prakticum hackathon in november 2020... and became a co-winner of the hackathon. Was put into production by the end ov november, 2020 after some amendments \
+>***about***: Single Page Application for **MARSHAK Publishing** music label **Turbina**. The project was developed during Yandex.Prakticum hackathon in november 2020... and became a co-winner of the hackathon. Was put into production after some amendments \
 > ***stack:*** React, Styled Components, ESLint, Web Audio API \
 >***site***: https://marshakbooks.ru/turbina/ \
 >***initial code***: https://github.com/alex-kurkov/turbina-react
 
-- **News Explorer**
+- **Electronic Menu**
 
->***about***: Yandex.Practicum diploma Project - the frontend and backend of SPA for searching news by a keyword or a keyphrase, allowing to save or delete featured news after authorization\
-> ***stack:***  NodeJS, ExpressJS, MongoDB, Nginx, React, REST API, ESLint \
->***site***: https://kurkov-news.students.nomoreparties.xyz/ \
->***backend code***: https://github.com/alex-kurkov/news-explorer-api \
->***frontend code***: https://github.com/alex-kurkov/news-explorer-frontend
+>***about***: Ostrov Sushi electronic menu frontend+backend mobile "first-and-only" -) 
+> ***stack:***  Strapi, Nginx, React, Redux, ESLint \
+>***site***: https://osp.eda89.ru \
 
 ---
 
@@ -48,9 +46,6 @@ Here are some of my educational and hackathon projects:
 <a href="https://nodejs.org/"><img height="80" src="./icons/NODEJS.png"></a>
 <a href="https://expressjs.com"><img height="80" src="./icons/Expressjs.png"></a>
 <a href="https://www.mongodb.com"><img height="80" src="./icons/mongo.png"></a>
-
-
-### Now studying:
 <br/>
 <a href="https://vuejs.org/"><img height="80" src="./icons/vuejs.png"></a>
 <a href="https://nuxtjs.org/"><img height="80" src="./icons/nuxt.png"></a>
@@ -64,8 +59,6 @@ Here are some of my educational and hackathon projects:
 ## Contacts
 
 <br>
-
-<img height="16" src="./icons/telephone.png"/>[ +79222063030](tel:+79222063030 "Phone")
 
 <img height="16" src="./icons/email.png"/> [ a.kurkov@mail.ru](mailto:alexkourkov@yandex.ru "Email")
 
