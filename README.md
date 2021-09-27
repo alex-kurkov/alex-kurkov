@@ -25,7 +25,7 @@ Here are some of my latest projects:
 - **Electronic Menu**
 
 >***about***: Ostrov Sushi electronic menu frontend+backend mobile "first-and-only" -) \
->***stack:***  Strapi, Nginx, React, Redux, ESLint \
+>***stack:***  Strapi, Nginx, React + Redux(RTK), Styled Components \
 >***site***: https://osp.eda89.ru
 
 ---
