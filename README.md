@@ -32,7 +32,7 @@ Here are some of my latest projects:
 
 ## Technologies / Frameworks
 <br/>
-##Frontend
+Frontend
 <br/>
 <a href="https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/html.png"></a>
 <a href="https://developer.mozilla.org/en/docs/Web/CSS"><img height="80" src="./icons/css.png"></a>
@@ -44,7 +44,7 @@ Here are some of my latest projects:
 <a href="https://vuejs.org/"><img height="80" src="./icons/vuejs.png"></a>
 <a href="https://nuxtjs.org/"><img height="80" src="./icons/nuxt.png"></a>
 <br/>
-##Backend
+<h2> Backend </h2>
 <br/>
 <a href="https://nodejs.org/"><img height="80" src="./icons/NODEJS.png"></a>
 <a href="https://expressjs.com"><img height="80" src="./icons/Expressjs.png"></a>
@@ -52,10 +52,11 @@ Here are some of my latest projects:
 <a href="https://developer.mozilla.org/en/docs/Web/API/WebSocket"><img height="80" src="./icons/socket.png"></a>
 <a href="https://www.mongodb.com"><img height="80" src="./icons/mongo.png"></a>
 <br/>
-##Environment
+Environment
 <br/>
 <a href="https://github.com"><img height="80" src="./icons/github.png"></a>
 <a href="https://webpack.js.org/"><img height="80" src="./icons/webpack.png"></a>
+
 ---
 
 ## Contacts
