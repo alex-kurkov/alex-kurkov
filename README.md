@@ -7,8 +7,7 @@
 
 ## About me
 
-<img width="30%" alt="me at work:)" vspace="5" hspace="10" align="right" src="./icons/me.gif"><span>Hi, I'm Alex
-I've studied web-dev at <a href="https://praktikum.yandex.ru">Yandex.Practicum</a> and <a href="https://hexlet.io">Hexlet.io</a> for 10 months in 2020-21. I am currently working on some pet and freelance projects and continuing to wander through innumerable threads and articles on stackoverflow, github, mdn and so on... Learning to code will never stop and that's great! </span>
+<img width="30%" alt="me at work:)" vspace="5" hspace="10" align="right" src="./icons/me.gif"><span>Hi, I'm Alex, a web-dev-faculty graduate of <a href="https://praktikum.yandex.ru">Yandex.Practicum</a> and <a href="https://hexlet.io">Hexlet.io</a>. I am currently working on some pet and freelance projects and continuing to wander through innumerable threads and articles on stackoverflow, github, mdn and so on... Learning to code will never stop and that's great! </span>
 
 ---
 
@@ -32,8 +31,6 @@ Here are some of my latest projects:
 ---
 
 ## Technologies / Frameworks
-
-### In use:
 <br/>
 <a href="https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5"><img height="80" src="./icons/html.png"></a>
 <a href="https://developer.mozilla.org/en/docs/Web/CSS"><img height="80" src="./icons/css.png"></a>
