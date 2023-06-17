@@ -41,8 +41,6 @@
 
 <br>
 
-<img height="16" src="./icons/telephone.png"/>[ +79222063030](tel:+79222063030 "Phone")
-
 <img height="16" src="./icons/email.png"/> [ a.kurkov@mail.ru](mailto:alexkourkov@yandex.ru "Email")
 
 <img height="16" src="./icons/telegram.png"/> [ @kurkov_alex](https://t.me/kurkov_alex "Telegram")
